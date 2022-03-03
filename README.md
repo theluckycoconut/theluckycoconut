@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on saving the planet.
+- 🌱 I’m currently learning to plant trees.
+- 👯 I’m looking to collaborate on art.
+- 🤔 I’m looking for help with painting.
+- 💬 Ask me about computers.
+- 📫 How to reach me: sandeep.kumar@outlook.com
+- 😄 Pronouns: He\Him
+- ⚡ Fun fact: none.
+
 <!--
 **theluckycoconut/theluckycoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
